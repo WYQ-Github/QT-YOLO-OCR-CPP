@@ -1,6 +1,6 @@
 # 车号(铁路)识别系统
 
-基于YOLO目标检测和OCR文字识别的列车车型车号识别系统。
+基于YOLO目标检测和OCR文字识别的列车车型车号识别系统，利用DeepSeekR1 优化代码和部分注释，便于理解易读，方便后续学习交流。
 
 ## 功能特点
 
@@ -31,6 +31,10 @@
 └── 3rdparty/          # 第三方库
 ```
 
+## 界面
+
+![1](E:\Code\SideTrianNumberRec\SideTrianNumberRec\assert\1.png)
+
 ## 参考
 
 OCR-ONNX: https://github.com/Aimol-l/OrtInference
@@ -38,4 +42,8 @@ OCR-ONNX: https://github.com/Aimol-l/OrtInference
 PaddleOCR: https://github.com/PaddlePaddle/PaddleOCR
 
 YOLO-TensorRT:https://github.com/laugh12321/TensorRT-YOLO
+
+Ultralytics: https://github.com/ultralytics/ultralytics
+
+
 
