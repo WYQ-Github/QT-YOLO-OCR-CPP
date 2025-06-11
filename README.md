@@ -33,7 +33,7 @@
 
 ## 界面
 
-![1](E:\Code\SideTrianNumberRec\SideTrianNumberRec\assert\1.png)
+![1](E:\Code\Study\GitDemo\OCR_YOLO_QT\assert\1.png)
 
 ## 参考
 
